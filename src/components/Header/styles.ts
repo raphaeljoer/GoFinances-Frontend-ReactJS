@@ -6,7 +6,7 @@ interface ContainerProps {
 
 export const Container = styled.div<ContainerProps>`
   background: #363f5f;
-  padding: 60px 0;
+  padding: 40px 0;
 
   header {
     width: 1120px;
